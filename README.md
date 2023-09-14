@@ -39,3 +39,16 @@
 </div>
 
 ###
+
+### GitHub Stats:
+![jesusgonzalezt Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jesusgonzalezt&show_icons=true&theme=swift&count_private=true&include_all_commits=true)
+
+![jesusgonzalezt github streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusgonzalezt&theme=swift&include_all_commits=true&count_private=true)
+
+
+### Interest:
+
+<h4 align="left">⚽️ Football | 🎵 Music | 🍥 Anime | 🤖 AI | 📊 Data Vizualization</h4>
+
+
+
